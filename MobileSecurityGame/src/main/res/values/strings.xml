@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobile Security Game</string>
+    <string name="title_activity_menu_screen">MenuScreen</string>
+</resources>
